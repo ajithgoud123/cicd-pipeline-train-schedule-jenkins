@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'Builds'
+  vmImage: 'Azure Pipelines'
 
 steps:
 - task: NodeTool@0
